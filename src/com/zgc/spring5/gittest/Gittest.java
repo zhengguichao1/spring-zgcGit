@@ -8,6 +8,6 @@ public class Gittest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("本地新代码 push 一下");
-
+        System.out.println("远程新代码 pull一下");
     }
 }
