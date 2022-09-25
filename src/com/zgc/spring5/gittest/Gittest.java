@@ -6,5 +6,6 @@ public class Gittest {
         System.out.println("GIt提交，第二版本");
         System.out.println("hot-fix被合并！！！");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
